@@ -98,4 +98,4 @@ If you have any questions regarding this Privacy Policy, you may contact us:
 
 Developer Name: Satyam Sajwani
 Application Name: Labh Extrusion
-Email: your-email@example.com
+Email: snhinventor@gmail.com
