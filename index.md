@@ -106,7 +106,7 @@ Email: snhinventor@gmail.com
 
 Users can request deletion of their account and associated data by contacting:
 
-Email: [your-email@example.com](mailto:snhinventor@gmail.com)
+Email: snhinventor@gmail.com
 
 Please include your registered mobile number in the request.
 
