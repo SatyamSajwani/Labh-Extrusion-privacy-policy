@@ -99,3 +99,15 @@ If you have any questions regarding this Privacy Policy, you may contact us:
 Developer Name: Satyam Sajwani
 Application Name: Labh Extrusion
 Email: snhinventor@gmail.com
+
+
+
+# Account Deletion Request
+
+Users can request deletion of their account and associated data by contacting:
+
+Email: [your-email@example.com](mailto:snhinventor@gmail.com)
+
+Please include your registered mobile number in the request.
+
+Data may be retained temporarily where required for legal or operational purposes.
